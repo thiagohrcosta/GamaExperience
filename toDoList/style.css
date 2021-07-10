@@ -1,0 +1,39 @@
+li{
+  margin: 10px 0;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: #E8F1F2;
+  list-style: none;
+  font-weight: bolder;
+}
+
+.bg-list{
+  background-color: #E4E9FD;
+  background-image: -webkit-linear-gradient(65deg, #1B98E0 50%, #E8F1F2 50%);
+  height: 100vh;
+}
+
+.custom-container{
+  width: 60%;
+  margin: 0 auto;
+}
+
+.custom-input{
+  width: 90%;
+}
+
+.custom-btn{
+  background-color:  #1B98E0;
+  color: #E8F1F2;
+  width: 9%;
+}
+
+.to-do-text{
+  padding: 20px;
+  width: 100%;
+  background-color: #006494;
+  border-radius: 20px;
+  color: #fff;
+  font-weight: bolder;
+}
